@@ -1,0 +1,2 @@
+link para download do Git: https://git-scm.com/downloads
+O hit Bash é um terminal extendido para otimizar o uso do Git.
